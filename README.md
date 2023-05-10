@@ -15,3 +15,8 @@ I hope you all would be very benefitted by going through this repository.
 10. [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true)
 11. [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true)
 12. [Lists](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)
+13. [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true)
+14. [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true)
+15. [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true)
+16. [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true  )
+17. [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true)
